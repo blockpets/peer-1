@@ -1,0 +1,5 @@
+[parity]
+chain = "trie.json"
+base_path = "../parity"
+[network]
+nat = "extip:54.245.95.185"
